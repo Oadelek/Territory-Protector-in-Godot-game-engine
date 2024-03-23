@@ -1,7 +1,10 @@
 # Territory-Protector-in-Godot-game-engine
-# Tower Defense Game Project
 
-Welcome to our Tower Defense Game Project, created in Godot Engine! This game combines strategic tower placement with real-time enemy wave management, offering a challenging and engaging experience for players. Developed by Nicolas Korsunski & Oluwasesan Adeleke, this project was a fun project for building our skills in Godot and game development.
+Welcome to our Tower Defense Game Project, created in Godot Engine! This game combines strategic tower placement with real-time enemy wave management, offering a challenging and engaging experience for players. Developed by Nicolas Korsunski, Oluwasesan Adeleke & Connor, this project was a fun project for building our skills in Godot and game development.
+
+Programmers: Nick, Oluwasesan
+
+Artist & Audio Master: Connor
 
 ## Project Overview
 
